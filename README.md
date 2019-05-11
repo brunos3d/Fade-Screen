@@ -4,8 +4,7 @@
 Just drag and drop the "ScreenFader.cs" script into your scene and set the "doFade"
 property to true in the inspector window or via script
 
-<src="https://www.youtube.com/embed/usxqtYKEwbs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+https://www.youtube.com/embed/usxqtYKEwbs
 
 ## Effects
 In the "effects" value you can set some effects. See some effects bellow.
