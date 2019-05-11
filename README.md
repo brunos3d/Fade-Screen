@@ -1,4 +1,4 @@
-# Fade-Screen Unity 2019.1.0f2
+# Fade-Screen to Unity 2019.1.0f2
 
 ## How to use?
 Just drag and drop the "ScreenFader.cs" script into your scene and set the "doFade"
