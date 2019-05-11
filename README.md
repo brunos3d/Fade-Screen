@@ -8,4 +8,4 @@ property to true in the inspector window or via script
 In the "effects" value you can set some effects. See some effects bellow.
 
 ### effect = 1:
-![alt text](http://url/to/img.png)
+![Pixel grow] (https://github.com/BrunoS3D/Fade-Screen/blob/master/images/0.png)
