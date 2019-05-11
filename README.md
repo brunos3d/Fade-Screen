@@ -4,6 +4,9 @@
 Just drag and drop the "ScreenFader.cs" script into your scene and set the "doFade"
 property to true in the inspector window or via script
 
+![image sample](https://github.com/BrunoS3D/Fade-Screen/blob/master/images/sample.png)
+
+
 ## Effects
 In the "effects" value you can set some effects. See some effects bellow.
 
