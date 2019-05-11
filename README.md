@@ -4,6 +4,10 @@
 Just drag and drop the "ScreenFader.cs" script into your scene and set the "doFade"
 property to true in the inspector window or via script
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE"><img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
+
 [![Watch the video](www.youtube.com/embed/usxqtYKEwbs)]
 
 ![image 0](https://github.com/BrunoS3D/Fade-Screen/blob/master/images/sample.png)
