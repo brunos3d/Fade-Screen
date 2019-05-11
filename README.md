@@ -8,9 +8,6 @@ property to true in the inspector window or via script
   <a href="https://www.youtube.com/watch?v=usxqtYKEwbs"><img src="https://img.youtube.com/vi/usxqtYKEwbs/0.jpg" alt="IMAGE ALT TEXT"></a>
 </div>
 
-
-![sample](https://github.com/BrunoS3D/Fade-Screen/blob/master/images/sample.png)
-
 ## Effects
 In the "effects" value you can set some effects. See some effects bellow.
 
