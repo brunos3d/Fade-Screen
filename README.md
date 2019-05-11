@@ -6,6 +6,8 @@ property to true in the inspector window or via script
 
 [![Watch the video](www.youtube.com/embed/usxqtYKEwbs)]
 
+![image 0](https://github.com/BrunoS3D/Fade-Screen/blob/master/images/sample.png)
+
 ## Effects
 In the "effects" value you can set some effects. See some effects bellow.
 
