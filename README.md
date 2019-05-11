@@ -5,6 +5,11 @@ Just drag and drop the "ScreenFader.cs" script into your scene and set the "doFa
 property to true in the inspector window or via script
 
 <div align="center">
+  </p>
+<h3 align="center" style="text-align:center;">
+	A fast and simple system that adds screen transition to your game.
+</h3>
+<p align="center">
   <a href="https://www.youtube.com/watch?v=usxqtYKEwbs"><img src="https://img.youtube.com/vi/usxqtYKEwbs/0.jpg" alt="IMAGE ALT TEXT"></a>
 </div>
 
