@@ -11,6 +11,7 @@ property to true in the inspector window or via script
 </h3>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=usxqtYKEwbs"><img src="https://img.youtube.com/vi/usxqtYKEwbs/0.jpg" alt="IMAGE ALT TEXT"></a>
+<hr>
 </div>
 
 ## Effects
